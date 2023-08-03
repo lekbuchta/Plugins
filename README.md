@@ -1,1 +1,1 @@
-Hello! I'm Buchta, a passionate and experienced plugin developer specializing in Spigot server plugins. With a love for gaming and a strong coding background, I've been creating and contributing to plugins that enhance gameplay, improve server performance, and create engaging experiences for players.
+Hello! I'm Buchta, a passionate and experienced developer. With a love for gaming and a strong coding background.
